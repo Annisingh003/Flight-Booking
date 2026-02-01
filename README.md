@@ -246,4 +246,4 @@ npm run build
 ---
 ---
 
-**Built with ❤️ by Yashpalsingh Pawara - Full Stack Excellence**
+**Built with by Aniket Pratap Singh - Full Stack Excellence**

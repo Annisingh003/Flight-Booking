@@ -1,4 +1,4 @@
-kjhgr
+
 # 🔧 Backend Architecture & API Documentation
 
 ## Backend Overview

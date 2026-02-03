@@ -1,3 +1,4 @@
+kjhgfkjhtr
 # 🔧 Backend Architecture & API Documentation
 
 ## Backend Overview
@@ -167,7 +168,6 @@ Response (201):
   }
 }
 ```
-
 #### Login User
 ```http
 POST /api/auth/login
